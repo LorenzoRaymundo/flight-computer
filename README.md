@@ -1,5 +1,5 @@
-# rocket-flight-computer 🚀
-## What is this? 🤖
+# 🚀 rocket-flight-computer 
+## 🤖 What is this?
 This is the code for the flight computer that I have made for my course's final project.
 It consists of a embedded C software that runs into and ESP32 Microcontroller inside a water bottle rocket.
 ### It's pourpose
