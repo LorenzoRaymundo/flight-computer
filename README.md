@@ -8,3 +8,9 @@ To log data in a SD card and transmit sensor readings wirelessly, as well as det
 - Transmiting rocket telemtry data is essencial for more complex rocket flights. It's a powerful tool that helps understand the behaviour of the rocket.
 - It's pretty cool actually be able to see what's happeing in a so popullar water bottle rocket.
 - To demonstrate that it is possible to have this kind of device in any size model rocket.
+### replay.py 
+This is the custom serial plotter that I made to vizualize the telemetry data in real time. Since I made it within 3 days its pretty buggy and has a very poor perfomance, but it can do it's job.
+To use it, just plug an ESP32 into a USB port on your PC and run the software! It will automatically recognizes it! (must have CP210x drivers installed).
+**Features**:
+- Dynamically changes the title of some graphs to see the actual max values in real time.
+- It has a "replay mode" wich can literally replay the last flight from a `.csv` file.
