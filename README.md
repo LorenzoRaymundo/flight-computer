@@ -4,7 +4,7 @@ Authors: @LorenzoRaymundo & @Caio-joca
 This is the code for the flight computer that I have made for my course's final project.
 It consists of a embedded C software that runs into and ESP32 Microcontroller inside a water bottle rocket.
 
-You see a demonstration video, find more info about this project and how I made it here: !https://www.youtube.com/watch?v=_QPlFLTgm8g
+You can see a demonstration video, find more info about this project and how I made it here: https://www.youtube.com/watch?v=_QPlFLTgm8g
 ### It's pourpose
 To log data in a SD card and transmit sensor readings wirelessly, as well as detecting the rocket's apogee (aka max height of the flight) and deploy a parachute right after it.
 ### Why
