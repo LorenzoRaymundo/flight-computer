@@ -1,5 +1,9 @@
 # 🚀 rocket-flight-computer 
 Authors: @LorenzoRaymundo & @Caio-joca
+
+<img width="465" height="500" alt="image" src="https://github.com/user-attachments/assets/6e8b7c4b-f2b5-4bad-9019-0b917a8c51ba" />
+
+
 ## 🤖 What is this?
 This is the code for the flight computer that I have made for my course's final project.
 It consists of a embedded C software that runs into and ESP32 Microcontroller inside a water bottle rocket.
@@ -17,3 +21,5 @@ To use it, just plug an ESP32 into a USB port on your PC and run the software! I
 **Features**:
 - Dynamically changes the title of some graphs to see the actual max values in real time.
 - It has a "replay mode" wich can literally replay the last flight from a `.csv` file.
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/c24c3d94-594e-4fce-b202-78350e4d1d24" />
