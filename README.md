@@ -1,7 +1,7 @@
 # 🚀 rocket-flight-computer 
 Authors: @LorenzoRaymundo & @Caio-joca
 
-<img width="465" height="500" alt="image" src="https://github.com/user-attachments/assets/6e8b7c4b-f2b5-4bad-9019-0b917a8c51ba" />
+<img width="280" height="500" alt="image" src="https://github.com/user-attachments/assets/6e8b7c4b-f2b5-4bad-9019-0b917a8c51ba" />
 
 
 ## 🤖 What is this?
